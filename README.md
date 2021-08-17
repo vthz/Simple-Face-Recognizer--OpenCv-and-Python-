@@ -1,8 +1,8 @@
 # Simple-Face-Recognizer-Python-and-Yaml-
-This is a Face Recognizer project. 
-GUI is used to make Adding New Faces, Training New Faces and Testing the Trained data simple.
-Implemented using Python Tkinter and OpenCv.
-Accuracy= ~70%.
+This is a Face Recognizer project.<br> 
+GUI is used to make Adding New Faces, Training New Faces and Testing the Trained data simple.<br>
+Implemented using Python Tkinter and OpenCv.<br>
+Accuracy= ~70%.<br>
 
 
 # Working
@@ -16,5 +16,5 @@ root/<br>
 
 
 # Note
-Make sure to create required directories
+Make sure to create required directories.<br>
 Will make another version, but with a Tensorflow model and a fully working GUI!!!
